@@ -7,4 +7,4 @@ data = {
     "address": {"street": "Main St", "city": "New York", "state": "NY"}
 }
 
-print(data)
+pprint(data)
